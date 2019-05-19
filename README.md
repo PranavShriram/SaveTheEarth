@@ -3,7 +3,7 @@
 
 #Iron Man
 
-#Origin#
+#Origin
 
 Anthony Edward "Tony" Stark was born in Long Island, New York, to Howard Anthony Stark and Maria Collins Carbonell Stark. In his youth, Tony Stark was a precociously intelligent young boy. When Tony was 7 he was sent to a boarding school, and during this experience he found people difficult to relate to. This was when he became fascinated by machines. By the age of 15 Tony had enrolled in MIT (The Massachusetts Institute of Technology) in Boston, Massachusetts. He graduated at the top of his class at age 19 with double masters in physics and engineering.
 
@@ -15,6 +15,7 @@ During the war in Afghanistan, Stark was at one of his munitions plants testing 
 
 Tony Stark made his first appearance in Tales of Suspense #39 in 1963. He was created by Stan Lee, Larry Lieber, Don Heck, and Jack Kirby. Tony's character was loosely based on the life of the rich and successful playboy Howard Hughes. It may be argued that Iron Man symbolized the meritocracy of capitalism. In the 1960's when Iron Man was created, the threat of Communism from the USSR was huge. Not only did Iron Man fight communists and people from the Eastern Block, but he sent the message that great things could be achieved through thrift, risk and hard work.
 
-#Character Evolution#
+#Character Evolution
+
 When Marvel re-emerged on the comic book scene in the Silver Age (some say Marvel's re-emergence signaled the beginning of the Silver Age of Comics) a big factor in their popularity was making easily relatable characters. In many cases, this took the form of a teenage hero for whom others felt some empathy (as at the time readership was primarily for those of a younger age.) Such heroes included the X-Men and Spider-Man. When it came to portraying more mature characters, there was still an emphasis on portraying the character's humanity as much as their heroics. In the case of Tony Stark, this took on essentially two different aspects. He had to battle alcoholism and re-organize his company so as not to be a war profiteer any longer. Over the course of his publication history, he has had to deal with both aspects of his life.
 
